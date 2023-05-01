@@ -11,8 +11,16 @@ All my data does not include information of personal nature or secure data such 
 
 #Data standards and metadata
 
+Most data will be processed through computer as a excel files and images for the evaluation and for figures.
+
 #Storage and security
+
+
 
 #Access and data sharing
 
+Data will be shared with PI through email or google teams personally. 
+
 #Archive
+
+The backup data will be stored in USB driver.  
